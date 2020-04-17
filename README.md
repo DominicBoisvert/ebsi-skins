@@ -20,7 +20,7 @@ Publier des supports de cours (en PDF et html) conforment, ou presque, à [Image
 
 ![Page titre](/images/pdf_titre.png)
 
-![Page 23](/images/pdf_23.png)
+![Page 23](/images/page_23.png)
 
 ## Explorer le code
 
