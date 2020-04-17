@@ -7,6 +7,12 @@ Pour SCENARIchain 4.2.2.01 et Opale 3.7.
 
 Publier des supports de cours (en PDf et html) conforment, ou presque, à [Image de marque : Guide d'utilisation et normes graphique](http://www.bcrp.umontreal.ca/documents/normes/GUIDE-marque_umontreal.pdf) de l'Université de Montréal.
 
+# Captures d'écran
+
+![alt text](https://github.com/DominicBoisvert/ebsi-skins/blob/master/images/page_accueil.png "Page d'accueil" =50x)
+
+![alt text](https://github.com/DominicBoisvert/ebsi-skins/blob/master/images/page_contenu.png "Contenu" =50x)
+
 # Commencer
 
 Télécharger le ou les skinpacks.
