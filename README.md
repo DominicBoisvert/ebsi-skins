@@ -11,9 +11,16 @@ Publier des supports de cours (en PDF et html) conforment, ou presque, à [Image
 ## Captures d'écran
 
 ### Publication web
+
 ![Page principale](/images/page_accueil.png)
 
 ![Contenu](/images/page_contenu.png)
+
+### Publication PDF
+
+![Page titre](/images/pdf_titre.png)
+
+![Page 23](/images/pdf_23.png)
 
 ## Explorer le code
 
@@ -30,12 +37,6 @@ Télécharger le ou les skinpacks.
 Pour installer un skinpack, suivez les instructions de la [documentation](https://doc.scenari.software/SCENARIchain@4.2/fr/) de SCENARIchain.
 
 **Attention**, lire la section « Construit avec » avant de procéder.
-
-### Publication PDF
-
-![Page titre](/images/pdf_titre.png)
-
-![Page 23](/images/pdf_23.png)
 
 ## Construit avec
 
