@@ -9,9 +9,9 @@ Publier des supports de cours (en PDf et html) conforment, ou presque, à [Image
 
 # Captures d'écran
 
-![Page principale](/images/page_accueil.png =50x)
+![Page principale](/images/page_accueil.png)
 
-![Contenu](/images/page_contenu.png =50x)
+![Contenu](/images/page_contenu.png)
 
 # Commencer
 
