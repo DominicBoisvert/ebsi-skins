@@ -9,9 +9,9 @@ Publier des supports de cours (en PDf et html) conforment, ou presque, à [Image
 
 # Captures d'écran
 
-![alt text](https://github.com/DominicBoisvert/ebsi-skins/blob/master/images/page_accueil.png "Page d'accueil" =50x)
+![Page principale](/images/page_accueil.png =50x)
 
-![alt text](https://github.com/DominicBoisvert/ebsi-skins/blob/master/images/page_contenu.png "Contenu" =50x)
+![Contenu](/images/page_contenu.png =50x)
 
 # Commencer
 
