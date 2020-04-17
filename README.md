@@ -31,6 +31,12 @@ Pour installer un skinpack, suivez les instructions de la [documentation](https:
 
 **Attention**, lire la section « Construit avec » avant de procéder.
 
+### Publication PDF
+
+![Page titre](/images/pdf_titre.png)
+
+![Page 23](/images/pdf_23.png)
+
 ## Construit avec
 
 - SCENARIchain, version [4.2.2.01 final](https://download.scenari.software/SCENARIchain@4.2.2.01).
