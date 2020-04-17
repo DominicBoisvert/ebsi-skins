@@ -10,6 +10,7 @@ Publier des supports de cours (en PDF et html) conforment, ou presque, à [Image
 
 ## Captures d'écran
 
+### Publication web
 ![Page principale](/images/page_accueil.png)
 
 ![Contenu](/images/page_contenu.png)
