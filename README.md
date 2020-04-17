@@ -6,7 +6,7 @@ Pour SCENARIchain 4.2.2.01 et Opale 3.7.
 
 ## Motivation
 
-Publier des supports de cours (en PDf et html) conforment, ou presque, à [Image de marque : Guide d'utilisation et normes graphique](http://www.bcrp.umontreal.ca/documents/normes/GUIDE-marque_umontreal.pdf) de l'Université de Montréal.
+Publier des supports de cours (en PDF et html) conforment, ou presque, à [Image de marque : Guide d'utilisation et normes graphique](http://www.bcrp.umontreal.ca/documents/normes/GUIDE-marque_umontreal.pdf) de l'Université de Montréal.
 
 ## Captures d'écran
 
