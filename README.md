@@ -41,6 +41,7 @@ Pour installer un skinpack, suivez les instructions de la [documentation](https:
 ## Construit avec
 
 - SCENARIchain, version [4.2.2.01 final](https://download.scenari.software/SCENARIchain@4.2.2.01).
+- SCENARIstyler, version [4.2.2.01 final](https://download.scenari.software/SCENARIstyler@4.2.2.01/).
 - Opale, version [3.7](https://download.scenari.software/Opale@3.7.0.01/).
 
 ## License
