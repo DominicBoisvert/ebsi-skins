@@ -5,7 +5,7 @@ Pour SCENARIchain 4.2.2.01 et Opale 3.7.
 
 # Motivation
 
-Publier des supports de cours (en PDf et html) conforme, ou presque, à [Image de marque : Guide d'utilisation et normes graphique](http://www.bcrp.umontreal.ca/documents/normes/GUIDE-marque_umontreal.pdf) de l'Université de Montréal.
+Publier des supports de cours (en PDf et html) conforment, ou presque, à [Image de marque : Guide d'utilisation et normes graphique](http://www.bcrp.umontreal.ca/documents/normes/GUIDE-marque_umontreal.pdf) de l'Université de Montréal.
 
 # Commencer
 
@@ -13,7 +13,7 @@ Télécharger le ou les skinpacks.
 
 # Installation
 
-Pour installer les skinpacks, suivez les instructions de la [documentation](https://doc.scenari.software/SCENARIchain@4.2/fr/) de SCENARIchain. *Attention*, lire la section « Construit avec ».
+Pour installer un skinpack, suivez les instructions de la [documentation](https://doc.scenari.software/SCENARIchain@4.2/fr/) de SCENARIchain. **Attention**, lire la section « Construit avec » avant de procéder.
 
 # Construit avec
 
@@ -22,4 +22,4 @@ Pour installer les skinpacks, suivez les instructions de la [documentation](http
 
 # License
 
-https://github.com/DominicBoisvert/ebsi-skins/blob/master/LICENSE
+Ce projet est sous licence MIT - voir le fichier [LICENSE.md](https://github.com/DominicBoisvert/ebsi-skins/blob/master/LICENSE) pour plus de détails.
