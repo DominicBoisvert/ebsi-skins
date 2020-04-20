@@ -44,6 +44,10 @@ Pour installer un skinpack, suivez les instructions de la [documentation](https:
 - SCENARIstyler, version [4.2.2.01 final](https://download.scenari.software/SCENARIstyler@4.2.2.01/).
 - Opale, version [3.7](https://download.scenari.software/Opale@3.7.0.01/).
 
+## Remerciements
+
+Merci à [Christine Dufour](http://dufour.ebsi.umontreal.ca/) pour le gabarit PDF et ses commentaires constructifs.
+
 ## License
 
 Ce projet est sous licence MIT - voir le fichier [LICENSE.md](https://github.com/DominicBoisvert/ebsi-skins/blob/master/LICENSE) pour plus de détails.
