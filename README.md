@@ -6,7 +6,7 @@ Pour SCENARIchain 4.2.2.01 et Opale 3.7.
 
 ## Motivation
 
-Publier des supports de cours (en PDF et html) conforment, ou presque, à [Image de marque : Guide d'utilisation et normes graphique](http://www.bcrp.umontreal.ca/documents/normes/GUIDE-marque_umontreal.pdf) de l'Université de Montréal.
+Publier des supports de cours (en html) conforment, ou presque, à [Image de marque : Guide d'utilisation et normes graphique](http://www.bcrp.umontreal.ca/documents/normes/GUIDE-marque_umontreal.pdf) de l'Université de Montréal.
 
 ## Captures d'écran
 
@@ -15,12 +15,6 @@ Publier des supports de cours (en PDF et html) conforment, ou presque, à [Image
 ![Page principale](/images/page_accueil.png)
 
 ![Contenu](/images/page_contenu.png)
-
-### Publication PDF
-
-![Page titre](/images/pdf_titre.png)
-
-![Page 23](/images/page_23.png)
 
 ## Explorer le code
 
@@ -43,10 +37,6 @@ Pour installer un skinpack, suivez les instructions de la [documentation](https:
 - SCENARIchain, version [4.2.2.01 final](https://download.scenari.software/SCENARIchain@4.2.2.01).
 - SCENARIstyler, version [4.2.2.01 final](https://download.scenari.software/SCENARIstyler@4.2.2.01/).
 - Opale, version [3.7](https://download.scenari.software/Opale@3.7.0.01/).
-
-## Remerciements
-
-Merci à [Christine Dufour](http://dufour.ebsi.umontreal.ca/) pour le gabarit PDF et ses commentaires constructifs.
 
 ## License
 
