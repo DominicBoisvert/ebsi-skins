@@ -18,7 +18,7 @@ Publier des supports de cours (en html) conforment, ou presque, à [Image de mar
 
 ## Explorer le code
 
-Les fichiers `skinpack` sont des fichiers compressés. Changez l'extension pour `.zip`, puis décompressez le fichier. Vous aurez alors accès au code et aux ressources (images).
+Le code est accessible dans le répertoie [sin_web](https://github.com/DominicBoisvert/ebsi-skins/tree/master/sin_web).
 
 **Attention**, il ne sera pas possible de compressez le dossier à nouveau pour l'utiliser dans SCENARIchain. Si vous souhaitez modifier un skinpack vous devrez le faire en utilisant [SCENARIstyler](https://doc.scenari.software/SCENARIstyler/fr/).
 
