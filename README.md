@@ -24,7 +24,7 @@ Les fichiers `skinpack` sont des fichiers compressés. Changez l'extension pour 
 
 ## Commencer
 
-Télécharger le ou les skinpacks.
+Télécharger le [skinpack](https://github.com/DominicBoisvert/ebsi-skins/releases).
 
 ## Installation
 
