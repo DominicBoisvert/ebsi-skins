@@ -18,7 +18,7 @@ Publier des supports de cours (en html) conforment, ou presque, à [Image de mar
 
 ## Explorer le code
 
-Le code est accessible dans le répertoie [sin_web](https://github.com/DominicBoisvert/ebsi-skins/tree/master/sin_web).
+Le code est accessible dans le répertoire [sin_web](https://github.com/DominicBoisvert/ebsi-skins/tree/master/sin_web).
 
 **Attention**, il ne sera pas possible de compressez le dossier à nouveau pour l'utiliser dans SCENARIchain. Si vous souhaitez modifier un skinpack vous devrez le faire en utilisant [SCENARIstyler](https://doc.scenari.software/SCENARIstyler/fr/).
 
