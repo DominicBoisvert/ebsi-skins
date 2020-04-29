@@ -1,8 +1,9 @@
 /*
 Theme name : skin UdeM
-Description : Mise en page et stylage à la façon EBSI.
+Version : 0.1.4.
+Description : Mise en page et habillage à la façon Université de Montréal.
 Author : Dominic Boisvert
-Author URI : https://www.gin-ebsi.umontreal.ca/boisved/
+Author URI : https://github.com/DominicBoisvert
 Tags : Scenari, Opale
 */
 
@@ -168,7 +169,7 @@ p{
 	overflow-y:auto;
 	margin-top:0;
 	margin-bottom:0;
-	position:relative; /* Necessaire pour le centrage automatique de l'item de menu courant */
+	position:relative; /* Nécessaire pour le centrage automatique de l'item de menu courant */
 }
 .default #menu > .mnuSrlDwnFra{
 	order:3;
@@ -2835,6 +2836,10 @@ background: url("../img/quiz/score.png") no-repeat scroll transparent;
 .tools dfn, .tools dt{
 	color: #003DA5;
 	font-weight: bold;
+}
+.hBk_co dt{ 
+	visibility: hidden; /* Pour cacher le nom de l'auteur dans la bibliographie et la webographie (version 0.1.4.). */
+	line-height: 0; /* Pour réduire l'espace maintenant vide entre les entrées de la bibliographie (version 0.1.4.)*/
 }
 .tools dd{
 	margin-left:15px;
