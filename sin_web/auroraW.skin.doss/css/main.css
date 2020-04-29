@@ -493,6 +493,10 @@ p{
 .home #navigation{
 	flex: 0 0 auto;
 	margin-bottom:40px;
+	overflow: hidden;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
 }
 
 /*=== HOME LAYOUT - GENERAL BACKGROUNDS ======================================*/
@@ -1962,6 +1966,8 @@ button:focus,
 }
 .legalInfo {
 	margin-left: 5px;
+	color: #ffffff;
+	position: absolute;
 }
 .default #footer, .sco #footer{
 	background-color:#f2f2f2;
